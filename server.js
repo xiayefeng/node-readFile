@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-fs.readFile('./file/20200706.log', 'utf8', (err, data) => {
+fs.readFile('./static/20200706.log', 'utf8', (err, data) => {
   if(err) throw err
   // console.log(data)
   let arr = data.split(/\n/)
