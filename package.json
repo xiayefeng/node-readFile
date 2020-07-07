@@ -1,0 +1,11 @@
+{
+  "name": "readfile",
+  "version": "1.0.0",
+  "description": "node example",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "xiaoyu",
+  "license": "ISC"
+}
